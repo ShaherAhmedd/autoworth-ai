@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+.streamlit/secrets.toml
+artifacts/
+autoworth-ai-github.zip
+autoworth_model.pkl
+autoworth_preprocessor.pkl
+data/cclass.csv
+data/focus.csv
+data/unclean cclass.csv
+data/unclean focus.csv
